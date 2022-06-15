@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Target : MonoBehaviour
+public class DamageableTarget : MonoBehaviour
 {
 
     public float health = 50f;

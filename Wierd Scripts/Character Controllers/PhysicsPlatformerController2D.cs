@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Controller : MonoBehaviour
+public class PhysicsPlatformerController2D : MonoBehaviour
 {
     public float speed;
     public float jumpForce;

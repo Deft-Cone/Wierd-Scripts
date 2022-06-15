@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PlayerScript : MonoBehaviour
+public class KinematicCharacterController3D : MonoBehaviour
 {
     //Movement
     public Rigidbody rb;
